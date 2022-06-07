@@ -14,10 +14,7 @@ import org.springframework.stereotype.Repository;
 
 import com.microservices.hamburger.Model.HamBurgerMenuEntity;
 
-/**
- * @author 33000006
- *
- */
+
 @Repository
 public class CallGeneralDaoLayerHamBurger {
 	
